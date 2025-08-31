@@ -73,12 +73,15 @@ utilizando **Entity Framework Core** e **SQL Server**.
 
 ## 📚 Estrutura do Projeto
 
-    📂 SistemaDeTarefasAPI
+    📂 SistemaDeTarefas
      ┣ 📂 Controllers
      ┣ 📂 Data
-     ┣ 📂 DTOs
+     ┣ 📂 DTOs 
+     ┣ 📂 Enums
+     ┣ 📂 Exceptions  
      ┣ 📂 Models
      ┣ 📂 Migrations
+     ┣ 📂 Repositorios 
      ┣ appsettings.json
      ┣ Program.cs
 
